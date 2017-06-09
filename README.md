@@ -1,1 +1,5 @@
 # Scrabble-Word-Finder
+
+In this assignment you will get a chance to use some of the Collection classes and methods we have covered recently. This will enable you to write a faster-running program with less effort than you would otherwise. Also, the design we'll provide you will be less constrained than in past assignments: you will have the opportunity to decide on the exact interface and representation for your most of your classes. You'll also get some practice with command-line arguments and text file processing.
+
+This assignment concerns the game of Scrabble. You may know the game of Scrabble better as Words with Friends. If you want to try out Words with Friends yourself you can download the free app for your smartphone. However, the programming assignment is not to create the game itself, but to write a program that finds all possible words that can be made from a rack of Scrabble tiles (so it could help someone playing Scrabble). We'll elaborate on the exact requirements of this assignment in the section on the assignment below.
